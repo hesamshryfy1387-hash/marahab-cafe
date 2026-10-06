@@ -42,7 +42,6 @@ filters.forEach((f,i)=>{
 render();
 
 // ====== اطلاعات تماس ======
-// موارد زیر را با اطلاعات واقعی کافه عوض کن.
 const cafeInfo = {
   phone: "+98 903 630 6202",
   instagram: "@cafe.maraheb",
