@@ -43,7 +43,7 @@ render();
 
 // ====== اطلاعات تماس ======
 const cafeInfo = {
-  phone: "+0903 630 6202",
+  phone: "0903 630 6202",
   instagram: "@cafe.maraheb",
   address: "پردیس چهار راه شباهنگ نبش خیابان شایان ۲"
 };
